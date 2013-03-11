@@ -5,7 +5,8 @@
 Sample output (edited):
 
 
-```$ ./checkDomainExample.sh 
+```shell
+$ ./checkDomainExample.sh 
 ################################################################################
 hkdnr.hk
 ################################################################################
@@ -16,6 +17,7 @@ Given Name: 	INVALID		Given name: Some Name that didnt validate
 Family Name: 	INVALID		Family name: .
 Account Name: 	INVALID		Account Name: HK***T
 Expiration Date: 		dd-mm-yyyy
-################################################################################```
+################################################################################
+```
 
 Variables to fill-in:
